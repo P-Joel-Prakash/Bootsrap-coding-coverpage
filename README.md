@@ -1,4 +1,4 @@
-**# Bootsrap-coding-coverpage**
+# Bootsrap-coding-coverpage
 
 
  In this assignment, let's build a Coding Cover Page by applying the Bootstrap concepts we learned till now.
